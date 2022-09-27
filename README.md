@@ -1,24 +1,21 @@
-# appcurso
+# Lista de tarefas com vuetify 
 
-## Project setup
+## Configurações do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Copilar e regarregar - Desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Copilar e regarregar - Desenvolvimento
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints e corrige arquivos
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
